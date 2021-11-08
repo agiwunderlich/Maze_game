@@ -9,3 +9,4 @@ Generation of the maze based on data structure algorithm and recursion.
 <b>Render:</b> whenever the engine processes an update, Render will take a look at all the different shapes and show them on the screen.</br>
 <b>Body:</b> a shape that will be displayed, can be a circle, rectangle, oval etc.</br>
 
+![image](https://user-images.githubusercontent.com/35004717/140768178-3541d63d-8b61-4f7c-9bc8-6b5698e6a129.png)
