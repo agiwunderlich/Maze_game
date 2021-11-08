@@ -1,6 +1,8 @@
 # Maze game 
 The game has been created on Canvas, using a third-party library called Matter.js.
-Generation of the maze based on data structure algorithm and recursion.
+Generation of the maze based on data structure algorithm and recursion. </br>
+
+Click <a href="https://agiwunderlich.github.io/Maze_game/">HERE</a> to play!</br>
 
 <i>Matter JS Terminology:</i></br>
 <b>World:</b> object that contains all of the different things in the matter app.</br>
